@@ -7,6 +7,10 @@
 ### ***Kemerdekaan***
 - 17 Agustus 1945
 
+## Islam
+- rukun iman
+- rukun islam
+
 ## Contributors HALL of FAME
 - harmanyusuf
 - hamdihidayat
