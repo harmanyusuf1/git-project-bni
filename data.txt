@@ -6,3 +6,6 @@ koko, 60
 nurul, 27
 lia, 23
 kukuh, 42
+belibis, 24
+chitato, 27
+momogi, 15
