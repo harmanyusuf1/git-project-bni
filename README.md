@@ -22,3 +22,4 @@
 3. Add other contributors
 4. Fork the repository
 5. Take a nap at 12 AM
+6. Take a bath
