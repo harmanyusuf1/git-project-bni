@@ -8,6 +8,6 @@
 - 17 Agustus 1945
 
 ## Contributors HALL of FAME
--harmanyusuf
--hamdihidayat
--fahrihabibi
+- harmanyusuf
+- hamdihidayat
+- fahrihabibi
