@@ -15,3 +15,9 @@
 - harmanyusuf
 - hamdihidayat
 - fahrihabibi
+
+## Pending Task
+1. Create function for authentication
+2. Add trello board to README.md
+3. Add other contributors
+4. Fork the repository
