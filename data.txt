@@ -1,3 +1,5 @@
 harman, 25
 hamdi, 22
 fahri, 16
+nurul, 27
+lia, 23
